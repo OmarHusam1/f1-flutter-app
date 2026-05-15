@@ -1,19 +1,19 @@
-# simple Flutter application
+# 🏎️ F1 Red Bull Racing App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A Flutter mobile application built as part of a Flutter course assignment.
 
-## Getting Started
+## About
+A Formula 1 fan app focused on Red Bull Racing and Max Verstappen.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- 🏠 Home screen with driver spotlight
+- 🏆 Season stats and race results
+- 🔧 Car showcase (RB20)
+- 📋 Navigation drawer with multiple sections
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Built With
+- Flutter
+- Dart
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Author
+Omar Husam
